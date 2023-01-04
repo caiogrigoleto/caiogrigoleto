@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @caiogrigoleto
-- 🌱 I’m currently learning Flutter and NodeJS
+- 📖 I’m currently learning Flutter and NodeJS
+- 📱 Mobile Developer
+- 🖥️ Delphi, PHP, HTML and JavaScript
+- 💡 Smart Home Expert
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=caiogrigoleto)
 
